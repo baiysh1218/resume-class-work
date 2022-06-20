@@ -1,0 +1,29 @@
+#img-char {
+  width: 400px;
+  border-radius: 100%;
+  justify-content: center;
+}
+.intro-img {
+  display: flex;
+  justify-content: center;
+}
+#header-background {
+  background-color: rgb(9, 52, 75);
+}
+#intro {
+  display: flex;
+  justify-self: center;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
+h1 {
+  font-size: 62px;
+}
+.intro_about-me {
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}

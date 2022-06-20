@@ -1,0 +1,36 @@
+.background-content {
+  background-color: rgb(228, 228, 228);
+}
+.content {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+.content-about-me {
+  margin-bottom: 5%;
+}
+.about-me {
+  font-size: 32px;
+  margin-bottom: 2%;
+}
+.background-content {
+  background-color: rgb(228, 228, 228);
+}
+.info-background {
+  background-color: rgb(208, 229, 227);
+  border-radius: 15px;
+  padding: 3%;
+}
+.info-line {
+  border-top: #794cff 3px solid;
+  padding-top: 2%;
+}
+.poster-iron-man {
+  display: flex;
+  align-items: center;
+  padding-bottom: 20%;
+  padding-top: 5%;
+  flex-direction: column;
+}
+.img-poster {
+  width: 80%;
+}
